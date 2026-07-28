@@ -1,7 +1,5 @@
 # FBM Analytics
 
-![FBM Analytics](assets/fbm-logo.svg)
-
 ## Data products for social media, APIs and AI agents
 
 **FBM Analytics · ООО «ФБМ Аналитикс»** is an accredited Russian IT company.
